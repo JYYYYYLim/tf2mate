@@ -6,7 +6,7 @@ todo:\
 -UI\
 -file manipulation (probably a shitty application of robocopy)\
 -user defined envvar (runtime pref)\
--autodetect..?
+-dir autodetect..?
 
 possible:\
 -per-map scripting- inline editing via terminal
