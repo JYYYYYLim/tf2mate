@@ -9,8 +9,9 @@ todo:\
 -dir autodetect..?
 
 possible:\
--per-map scripting- inline editing via terminal
-
+-per-map scripting- inline editing via terminal\
+-scrapcalc\
+-runtime options
 
 
 
